@@ -22,7 +22,7 @@ text-decoration: none;
 }
 
 .header__photo {
-    background-image: url('./src/low-angle-girl-holding-camera\ 1.png');
+    background-image: url('low-angle-girl-holding-camera\ 1.png');
     padding-top: 20px;
     margin-bottom: 50px;
     background-size: cover;
@@ -90,14 +90,14 @@ line-height: 1.3em;
 }
 
 .frame {
-    background: url(./src/frame1.png) no-repeat center center;
+    background: url(frame1.png) no-repeat center center;
     background-size: cover;
     height: 92px;
 }
 
 .services {
     padding-top: 72px;
-    background: url(./src/Frame__services.png) no-repeat center center;
+    background: url(Frame__services.png) no-repeat center center;
     background-size: contain;
 }
 
@@ -160,7 +160,7 @@ h3 {
     display: flex;
     align-items: center;
     justify-content: start;
-    background: url(./src/Frame_about.png) no-repeat center;
+    background: url(Frame_about.png) no-repeat center;
     background-size: contain;
     background-position: top;
     padding: 50px 0;
@@ -200,7 +200,7 @@ h3 {
 }
 
 .advantages {
-    background: url(./src/Frame__advantages.png) center center;
+    background: url(Frame__advantages.png) center center;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -264,7 +264,7 @@ h3 {
     flex-wrap: wrap;
     justify-content: center;
     gap: 99px;
-    background: url(./src/Frame__teamblock1.png) no-repeat center center;
+    background: url(Frame__teamblock1.png) no-repeat center center;
     background-size: cover;
     margin-bottom: 66px;
     width: 100vw;
@@ -275,7 +275,7 @@ h3 {
     flex-wrap: wrap;
     justify-content: center;
     gap: 99px;
-    background: url(./src/Frame__teamblock2.png) no-repeat center center;
+    background: url(Frame__teamblock2.png) no-repeat center center;
     background-size: cover;
 }
 
@@ -509,7 +509,7 @@ h3 {
 
     /* .services__item::before {
         content: '';
-        background: url(./src/Frame__services.png) no-repeat;
+        background: url(Frame__services.png) no-repeat;
         background-size: 300%;
         width: 100vw;
         height: 100%;
@@ -537,7 +537,7 @@ h3 {
 
     .about__info {
         width: 100%;
-        background: url(./src/Frame_about.png) no-repeat center;
+        background: url(Frame_about.png) no-repeat center;
         background-size: contain;
         background-position: top;
         padding-top: 40px;
