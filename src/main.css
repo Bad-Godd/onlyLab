@@ -2,6 +2,11 @@
     box-sizing: border-box;
   }
 
+@font-face {
+  font-family: 'UnlimitedPie'; /* Name your font family */
+  src: url('ofont.ru_UnlimitedPie.ttf'); /* Locate the .ttf file within your directory*/
+}
+
 .page {
 background-color: #F7F8F3;
 }
