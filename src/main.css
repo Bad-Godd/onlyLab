@@ -355,6 +355,22 @@ h3 {
     background-color:#4E3366;
 }
 
+.footer__item_cyan:hover {
+    background-color:#4495ab;
+}
+
+.footer__item_cyan:active {
+    background-color:#285763;
+}
+
+.footer__item_pink:hover {
+    background-color:#d41c6e;
+}
+
+.footer__item_pink:active {
+    background-color:#a81d5b;
+}
+
   @media (max-width: 425px) {
     
     :root {
