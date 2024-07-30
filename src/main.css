@@ -68,6 +68,7 @@ h3 {
 .page__menu {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     border: 1px solid;
     border-radius: 50px;
     border-color:rgb(0 0 0 / 50%);
