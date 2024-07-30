@@ -155,6 +155,30 @@ h3 {
     backdrop-filter: blur(10px);
 }
 
+.services__block::before {
+    content: '';
+    background: url(Frame__services.png) no-repeat top 15% center;
+    background-size: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.services__block::after {
+    content: '';
+    background: url(Frame__services.png) no-repeat bottom 15% center;
+    background-size: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
 .services__item {
     width: 31%;
 }
