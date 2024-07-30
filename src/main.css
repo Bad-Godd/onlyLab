@@ -155,9 +155,9 @@ h3 {
     backdrop-filter: blur(10px);
 }
 
-.services__block::before {
+.services__block-container::before {
     content: '';
-    background: url(Frame__services.png) no-repeat top 15% center;
+    background: url(Frame__services.png) no-repeat top 10% center;
     background-size: 100%;
     position: absolute;
     top: 0;
@@ -167,7 +167,7 @@ h3 {
     z-index: -1;
 }
 
-.services__block::after {
+.services__block-container::after {
     content: '';
     background: url(Frame__services.png) no-repeat bottom 15% center;
     background-size: 100%;
